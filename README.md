@@ -41,8 +41,15 @@ statistics
    1) 종 모양의 분포로서, 평균을 중심으로 좌우 대칭
    2) 평균 = 중앙값 = 최빈값
    3) 통계적 추론의 기본 바탕이 되는 분포 모양 (표본평균의 분포 모양)
+   4) 정규분포를 표준정규분포로 변환한 뒤, 표준정규분포의 면적을 이용하여 확률을 계산한다.
+      --> 그 구간에 값을 알기 위해서
 
 <img width="678" alt="Screenshot 2025-04-02 at 10 40 38 AM" src="https://github.com/user-attachments/assets/3b63bfd4-bdcb-4a07-b86d-a683e2aab970" />
+
+6. 표준정규분포: 평균이 0이고, 표준편차가 1인 정규분포 -->'표준화'하면 단위(척도)에 상관없이 적용, 해석할 수 있다.
+
+   <img width="678" alt="Screenshot 2025-04-02 at 10 49 03 AM" src="https://github.com/user-attachments/assets/a2f78499-ae31-4481-8550-c2572939f019" />
+
 
 
 
